@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/nick/Projects/volunteer-work/Trafficking-Reporting/src/main/scala/bootstrap/liftweb'
 let g:netrw_dirhist_2='/home/nick/Projects/volunteer-work/Trafficking-Reporting/src/main/scala/bootstrap'
 let g:netrw_dirhist_3='/home/nick/Projects/volunteer-work/Trafficking-Reporting/src/main/scala/bootstrap/liftweb'
+let g:netrw_dirhist_4='/home/nick/Projects/Minecraft/mods/ThaumicDimDoors/TODO.md'
